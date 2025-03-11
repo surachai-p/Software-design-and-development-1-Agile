@@ -1,4 +1,4 @@
-# Software-design-and-development-1-Agile
+# Agile 
 ## SCRUM
   - [SCRUM Overview](./docs/booking-scrum.md)
   - ## SCRUM ROLE
